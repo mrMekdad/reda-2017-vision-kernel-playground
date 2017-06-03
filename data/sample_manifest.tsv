@@ -1,3 +1,4 @@
 sample	status	group
 vision-kernel-playground-01	ready	control
 vision-kernel-playground-02	review	case
+vision-kernel-playground-03	queued	validation
